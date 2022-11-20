@@ -5,4 +5,4 @@
 	- AND in the directory **0x01-git**
 * And important part: **Make sure you commit and push your code to Github - otherwise the checker will always fail.**
 ## Repo:
-	- Github repository: **alx-pre_course**
+	Github repository: **alx-pre_course**
