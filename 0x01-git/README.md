@@ -39,6 +39,7 @@ For this project, create a branch __update_script__ and in this branch:
    - Update **bash/school** by replacing **echo "School"** with **echo "The school is open!"**
    - Add and commit these changes(message: **"My personal work"**)
    - Push this new branch
+
 Perfect! You did an amazing update in your project and it needs to be deployed now:
    - Change branch to **main**
    - Update the file **bash/alx** by replacing **echo "ALX"**  with **echo "ALX School is so cool!"**
