@@ -38,7 +38,7 @@ For this project, create a branch __update_script__ and in this branch:
    - Update __bash/alx__ by replacing __echo "ALX"__ with **echo "ALX School"**
    - Update **bash/school** by replacing **echo "School"** with **echo "The school is open!"**
    - Add and commit these changes(message: **"My personal work"**)
-   - Push this new branch
+   - Push this new branch[Tip](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
 Perfect! You did an amazing update in your project and it needs to be deployed now:
    - Change branch to **main**
